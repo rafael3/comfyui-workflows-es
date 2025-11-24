@@ -1,12 +1,11 @@
 # comfyui-workflows-es
 La primera guía impresa completa sobre ComfyUI en inglés. Más de 300 páginas que cubren todo tipo de flujos de trabajo, SDXL, LoRA, video, audio, 3D, modelos y mucho más. Diseñada para profesionales creadores de contenido, regularmente actualizada. Escrita por Rafael Hernández. Ya disponible en todo el mundo a través de Amazon.
 # Manual de ComfyUI
-
-[![Póster explicativo de flujos de trabajo de ComfyUI Handbook](assets/comfyui-handbook-workflows-cn.jpg)](https://a.co/d/eockxat)
+![Libro de ComfyUI en español](https://raw.githubusercontent.com/rafael3/comfyui-workflows-es/main/ComfyUILibro-ES.jpg)](https://a.co/d/eockxat)
 
 ▲ Haz clic en la imagen superior para ir a Amazon y adquirir *ComfyUI Handbook: AI Workflow Design*.
 
-Este es el repositorio oficial de GitHub del *ComfyUI Handbook* — la primera guía en inglés que explica de forma sistemática los flujos de trabajo de ComfyUI.
+Este es el repositorio oficial de GitHub del *ComfyUI Handbook* — la primera guía, manual sólo disponible en inglés que explica de forma sistemática los flujos de trabajo de ComfyUI.
 
 *ComfyUI Handbook: AI Workflow Design* es el primer libro en inglés escrito especialmente para usuarios de ComfyUI. Creado por un profesional del diseño, ofrece contenido completo, bien estructurado y pensado para creadores de todo el mundo.
 
